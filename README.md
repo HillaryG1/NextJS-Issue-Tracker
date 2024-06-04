@@ -1,5 +1,7 @@
 # Issue Tracker App 🚀
 
+![Issue Tracker App](https://repository-images.githubusercontent.com/809435809/2931fd15-0763-468b-a845-55b13bcd8b01)
+
 This is a full-stack issue tracking application built with Next.js, MongoDB, and Tailwind CSS. It allows users to create, read, update, and delete tickets, categorize them based on priority and status, and track their progress.
 
 ## Features
